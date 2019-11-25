@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-11-25T19:56:43+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/wakef/Desktop/лингво домашки/33 Артур Аристакисян о фильме 'Ладони'_Trim_Trim.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./33 Артур Аристакисян о фильме 'Ладони'_Trim_Trim.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:bbdfbf80-8fe9-4705-b5e9-e6e8a5f0595e</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">27</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="12200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="12200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="20800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="20800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="63000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="63500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="119000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="119454"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="139545"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="140000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="220000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="221272"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="231272"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="231300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="344000"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="@aas1961m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>ммм Я не мог  \ понять,  \ откуда это берётся: / унижение,  \ бесчисленные унижения, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>\ которым подвергаются,  \ в первую очередь,  \ чу-чувствительные люди,  \ вот иии  \ ответить на вопрос, </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>\ откуда берётся насилие,  \ откуда / берётся насилие,  \ которое идёт от меня и распространяется на моих близких, я не мог иии /. И я понял, что ну преодолеть эту потребность в насилии, / власти / я / могу только размышлениями об аскезе и самой аскезой. Но аскеза – это практика, высокая практика, ааа мысль об аскезе и преклонение / перед этими мыслями,  \ это то,  \ на что я как ученик,  \ тогда ещё в те годы / – ученик </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>\ средней школы был способен. / Я мог преклоняться перед людьми, / которые  \ по принуждению ли / или по собственной воле эту аскезу приняли / – они жили в лишениях, жили в нищете,  \ оставаясь при это людьми / влюблёнными. иии(дрожит) Они, / я помню, / все являли собою / – своим телом, / своей одеждой являли пороки мира, / пороки общества, / они носили их на себе. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> Город таков – город очень миниатюрный, / патриархальный город, Кишинев, / город одноэтажных домиков иии \ я, как впрочем и любой другой ребёнок, / взрослый, / знали тех людей, / всех тех людей, которые отличались от большинства, / в первую очередь – внешность. / Тогда нищих было не так много / и я / знал их всех, и все знали этих людей: / одни просто знали об их существовании, а другие знакомились с ними / ближе. Яяя ещё когда выбегал / с занятий / я ммм искал ответов, на вопросы, которые / не отвечали преподаватели в школе, / не отвечали мои родители, и я обращался / за ответом к людям, естественно, перестрадавшим, / очень много и к людям, / ещё не отошедшим от потрясений. Этими людьми были люди, побывавшие в заключениях, / в сумасшедших домах, / нищие, / люди, / которые, однако, сохраняли влюблённость / и сохраняли, /  сохраняли / движение / в себе.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>\ Понимая / вот / ту глубину / падения своего, / социального падения, они же знали, / что являются жертвами /-агнцами, обречёнными на закланье. / Их жертвенный путь, / он оставался в них. / Оставался нераскрытым, / не исповеданным. / Иии в задачу входило / просто поведать людям / историю их любви, / о том, как они выстрадали свою любовь и о том, / что они остаются влюблёнными.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="suppukerr" LINGUISTIC_TYPE_REF="imported-sep" PARTICIPANT="интервьюерша" TIER_ID="@aaa1961f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Ваши герои, ммм ну вы ммм их долго видели,  \ вы были знакомы с ними, да, / их так много и как-то в одном месте, / где это / и как вы с ними познакомились?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>И они были, они были согласны сниматься, / да, / фильм документальный?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
