@@ -1,0 +1,586 @@
+# newdoc;;;;;;;;;
+# newpar;;;;;;;;;
+# sent_id = 1;;;;;;;;;
+# text = ¬¬¬ Ÿ ­¥ ¬®£ \ ¯®­ïâì , \ ®âªã¤  íâ® ¡¥àñâáï : / ã­¨¦¥­¨¥ , \ ¡¥áç¨á«¥­­ë¥ ã­¨¦¥­¨ï , \ ª®â®àë¬ ¯®¤¢¥à£ îâáï , \ ¢ ¯¥à¢ãî ®ç¥à¥¤ì , \ çã - çã¢áâ¢¨â¥«ì­ë¥ «î¤¨ , \ ¢®â ¨¨¨ \ ®â¢¥â¨âì ­  ¢®¯à®á , \ ®âªã¤  ¡¥àñâáï ­ á¨«¨¥ , \ ®âªã¤  / ¡¥àñâáï ­ á¨«¨¥ , \ ª®â®à®¥ ¨¤ñâ ®â ¬¥­ï ¨ à á¯à®áâà ­ï¥âáï ­  ¬®¨å ¡«¨§ª¨å , ï ­¥ ¬®£ ¨¨¨ / .;;;;;;;;;
+1;¬¬¬;¬¬;NOUN;_;Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing;6;obj;_;@aas1961m-words#@aas1961m#0.000#0.642
+2;Ÿ;ï;PRON;_;Case=Nom|Number=Sing|Person=1;4;nsubj;_;@aas1961m-words#@aas1961m#0.642#1.284
+3;­¥;­¥;PART;_;_;4;advmod;_;@aas1961m-words#@aas1961m#1.284#1.926
+4;¬®£;¬®çì;VERB;_;Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act;0;root;_;@aas1961m-words#@aas1961m#1.926#2.568
+5;\;\;PUNCT;_;_;1;punct;_;@aas1961m-words#@aas1961m#2.568#3.210
+6;¯®­ïâì;¯®­ïâì;VERB;_;Aspect=Perf|VerbForm=Inf|Voice=Act;4;xcomp;_;@aas1961m-words#@aas1961m#3.210#3.852
+7;,;,;PUNCT;_;_;11;punct;_;@aas1961m-words#@aas1961m#3.852#4.494
+8;\;\;PUNCT;_;_;11;punct;_;@aas1961m-words#@aas1961m#4.494#5.136
+9;®âªã¤ ;®âªã¤ ;ADV;_;Degree=Pos;11;advmod;_;@aas1961m-words#@aas1961m#5.136#5.778
+10;íâ®;íâ®;PRON;_;Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing;11;nsubj;_;@aas1961m-words#@aas1961m#5.778#6.420
+11;¡¥àñâáï;¡¥à¢ âìáï;VERB;_;Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid;6;ccomp;_;@aas1961m-words#@aas1961m#6.420#7.062
+12;:;:;PUNCT;_;_;11;punct;_;@aas1961m-words#@aas1961m#7.062#7.704
+13;/;/;PUNCT;_;_;14;punct;_;@aas1961m-words#@aas1961m#7.704#8.346
+14;ã­¨¦¥­¨¥;ã­¨¦¥­¨¥;NOUN;_;Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing;11;parataxis;_;@aas1961m-words#@aas1961m#8.346#8.988
+15;,;,;PUNCT;_;_;22;punct;_;@aas1961m-words#@aas1961m#8.988#9.630
+16;\;\;PUNCT;_;_;22;punct;_;@aas1961m-words#@aas1961m#9.630#10.272
+17;¡¥áç¨á«¥­­ë¥;¡¥áç¨á«¥­­ë©;ADJ;_;Case=Nom|Degree=Pos|Number=Plur;18;amod;_;@aas1961m-words#@aas1961m#10.272#10.914
+18;ã­¨¦¥­¨ï;ã­¨¦¥­¨¥;NOUN;_;Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur;22;nsubj;_;@aas1961m-words#@aas1961m#10.914#11.556
+19;,;,;PUNCT;_;_;22;punct;_;@aas1961m-words#@aas1961m#11.556#12.200
+20;\;\;PUNCT;_;_;22;punct;_;@aas1961m-words#@aas1961m#12.200#12.573
+21;ª®â®àë¬;ª®â®àë©;PRON;_;Case=Dat;22;iobj;_;@aas1961m-words#@aas1961m#12.573#12.946
+22;¯®¤¢¥à£ îâáï;¯®¤¢¥à£ âìáï;VERB;_;Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid;14;conj;_;@aas1961m-words#@aas1961m#12.946#13.319
+23;,;,;PUNCT;_;_;29;punct;_;@aas1961m-words#@aas1961m#13.319#13.692
+24;\;\;PUNCT;_;_;29;punct;_;@aas1961m-words#@aas1961m#13.692#14.065
+25;¢;¢;ADP;_;_;29;discourse;_;@aas1961m-words#@aas1961m#14.065#14.438
+26;¯¥à¢ãî;¯¥à¢ë©;ADJ;_;Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing;25;fixed;_;@aas1961m-words#@aas1961m#14.438#14.811
+27;®ç¥à¥¤ì;®ç¥à¥¤ì;NOUN;_;Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing;25;fixed;_;@aas1961m-words#@aas1961m#14.811#15.184
+28;,;,;PUNCT;_;_;25;punct;_;@aas1961m-words#@aas1961m#15.184#15.557
+29;\;\;PUNCT;_;_;22;conj;_;@aas1961m-words#@aas1961m#15.557#15.930
+30;çã;ç ;NOUN;_;Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing;29;parataxis;_;@aas1961m-words#@aas1961m#15.930#16.303
+31;-;-;PUNCT;_;_;30;punct;_;@aas1961m-words#@aas1961m#16.303#16.676
+32;çã¢áâ¢¨â¥«ì­ë¥;çã¢áâ¢¨â¥«ì­ë©;ADJ;_;Case=Nom|Degree=Pos|Number=Plur;33;amod;_;@aas1961m-words#@aas1961m#16.676#17.049
+33;«î¤¨;ç¥«®¢¥ª;NOUN;_;Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur;30;nsubj;_;@aas1961m-words#@aas1961m#17.049#17.422
+34;,;,;PUNCT;_;_;37;punct;_;@aas1961m-words#@aas1961m#17.422#17.795
+35;\;\;PUNCT;_;_;37;punct;_;@aas1961m-words#@aas1961m#17.795#18.168
+36;¢®â;¢®â;PART;_;_;37;advmod;_;@aas1961m-words#@aas1961m#18.168#18.541
+37;¨¨¨;¨¨ï;NOUN;_;Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing;33;conj;_;@aas1961m-words#@aas1961m#18.541#18.914
+38;\;\;PUNCT;_;_;39;punct;_;@aas1961m-words#@aas1961m#18.914#19.287
+39;®â¢¥â¨âì;®â¢¥â¨âì;VERB;_;Aspect=Perf|VerbForm=Inf|Voice=Act;37;conj;_;@aas1961m-words#@aas1961m#19.287#19.660
+40;­ ;­ ;ADP;_;_;41;case;_;@aas1961m-words#@aas1961m#19.660#20.033
+41;¢®¯à®á;¢®¯à®á;NOUN;_;Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing;39;obl;_;@aas1961m-words#@aas1961m#20.033#20.406
+42;,;,;PUNCT;_;_;45;punct;_;@aas1961m-words#@aas1961m#20.406#20.800
+43;\;\;PUNCT;_;_;45;punct;_;@aas1961m-words#@aas1961m#20.800#21.248
+44;®âªã¤ ;®âªã¤ ;ADV;_;Degree=Pos;45;advmod;_;@aas1961m-words#@aas1961m#21.248#21.696
+45;¡¥àñâáï;¡¥à¢ âìáï;VERB;_;Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid;41;acl;_;@aas1961m-words#@aas1961m#21.696#22.144
+46;­ á¨«¨¥;­ á¨«¨¥;NOUN;_;Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing;45;nsubj;_;@aas1961m-words#@aas1961m#22.144#22.592
+47;,;,;PUNCT;_;_;51;punct;_;@aas1961m-words#@aas1961m#22.592#23.040
+48;\;\;PUNCT;_;_;51;punct;_;@aas1961m-words#@aas1961m#23.040#23.488
+49;®âªã¤ ;®âªã¤ ;ADV;_;Degree=Pos;51;parataxis;_;@aas1961m-words#@aas1961m#23.488#23.936
+50;/;/;PUNCT;_;_;49;punct;_;@aas1961m-words#@aas1961m#23.936#24.384
+51;¡¥àñâáï;¡¥à¢ âìáï;VERB;_;Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid;46;acl:relcl;_;@aas1961m-words#@aas1961m#24.384#24.832
+52;­ á¨«¨¥;­ á¨«¨¥;NOUN;_;Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing;51;nsubj;_;@aas1961m-words#@aas1961m#24.832#25.280
+53;,;,;PUNCT;_;_;56;punct;_;@aas1961m-words#@aas1961m#25.280#25.728
+54;\;\;PUNCT;_;_;56;punct;_;@aas1961m-words#@aas1961m#25.728#26.176
+55;ª®â®à®¥;ª®â®àë©;PRON;_;Case=Nom;56;nsubj;_;@aas1961m-words#@aas1961m#26.176#26.624
+56;¨¤ñâ;¨¤â¨;VERB;_;Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act;52;acl:relcl;_;@aas1961m-words#@aas1961m#26.624#27.072
+57;®â;®â;ADP;_;_;58;case;_;@aas1961m-words#@aas1961m#27.072#27.520
+58;¬¥­ï;ï;PRON;_;Case=Gen|Number=Sing|Person=1;56;obl;_;@aas1961m-words#@aas1961m#27.520#27.968
+59;¨;¨;CCONJ;_;_;60;cc;_;@aas1961m-words#@aas1961m#27.968#28.416
+60;à á¯à®áâà ­ï¥âáï;à á¯à®áâà ­ïâìáï;VERB;_;Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid;56;conj;_;@aas1961m-words#@aas1961m#28.416#28.864
+61;­ ;­ ;ADP;_;_;63;case;_;@aas1961m-words#@aas1961m#28.864#29.312
+62;¬®¨å;¬®©;DET;_;Case=Acc|Number=Plur;63;det;_;@aas1961m-words#@aas1961m#29.312#29.760
+63;¡«¨§ª¨å;¡«¨§ª¨¥;NOUN;_;Animacy=Anim|Case=Acc|Number=Plur;60;obl;_;@aas1961m-words#@aas1961m#29.760#30.208
+64;,;,;PUNCT;_;_;67;punct;_;@aas1961m-words#@aas1961m#30.208#30.656
+65;ï;ï;PRON;_;Case=Nom|Number=Sing|Person=1;67;nsubj;_;@aas1961m-words#@aas1961m#30.656#31.104
+66;­¥;­¥;PART;_;_;67;advmod;_;@aas1961m-words#@aas1961m#31.104#31.552
+67;¬®£;¬®çì;VERB;_;Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act;51;conj;_;@aas1961m-words#@aas1961m#31.552#32.000
+68;¨¨¨;¨¨ï;NOUN;_;Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing;67;obl;_;@aas1961m-words#@aas1961m#32.000#32.448
+69;/;/;PUNCT;_;_;68;punct;_;@aas1961m-words#@aas1961m#32.448#32.896
+70;.;.;PUNCT;_;_;39;punct;_;@aas1961m-words#@aas1961m#32.896#33.344
+;;;;;;;;;
+# sent_id = 2;;;;;;;;;
+# text = ˆ ï ¯®­ï« , çâ® ­ã ¯à¥®¤®«¥âì íâã ¯®âà¥¡­®áâì ¢ ­ á¨«¨¨ , / ¢« áâ¨ / ï / ¬®£ã â®«ìª® à §¬ëè«¥­¨ï¬¨ ®¡  áª¥§¥ ¨ á ¬®©  áª¥§®© .;;;;;;;;;
+1;ˆ;¨;CCONJ;_;_;3;cc;_;@aas1961m-words#@aas1961m#33.344#33.792
+2;ï;ï;PRON;_;Case=Nom|Number=Sing|Person=1;3;nsubj;_;@aas1961m-words#@aas1961m#33.792#34.240
+3;¯®­ï«;¯®­ïâì;VERB;_;Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act;0;root;_;@aas1961m-words#@aas1961m#34.240#34.688
+4;,;,;PUNCT;_;_;18;punct;_;@aas1961m-words#@aas1961m#34.688#35.136
+5;çâ®;çâ®;SCONJ;_;_;18;mark;_;@aas1961m-words#@aas1961m#35.136#35.584
+6;­ã;­ã;PART;_;_;7;discourse;_;@aas1961m-words#@aas1961m#35.584#36.032
+7;¯à¥®¤®«¥âì;¯à¥®¤®«¥âì;VERB;_;Aspect=Perf|VerbForm=Inf|Voice=Act;18;advcl;_;@aas1961m-words#@aas1961m#36.032#36.480
+8;íâã;íâ®â;DET;_;Case=Acc|Gender=Fem|Number=Sing;9;det;_;@aas1961m-words#@aas1961m#36.480#36.928
+9;¯®âà¥¡­®áâì;¯®âà¥¡­®áâì;NOUN;_;Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing;7;obj;_;@aas1961m-words#@aas1961m#36.928#37.376
+10;¢;¢;ADP;_;_;11;case;_;@aas1961m-words#@aas1961m#37.376#37.824
+11;­ á¨«¨¨;­ á¨«¨¥;NOUN;_;Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing;7;obl;_;@aas1961m-words#@aas1961m#37.824#38.272
+12;,;,;PUNCT;_;_;14;punct;_;@aas1961m-words#@aas1961m#38.272#38.720
+13;/;/;PUNCT;_;_;14;punct;_;@aas1961m-words#@aas1961m#38.720#39.168
+14;¢« áâ¨;¢« áâì;NOUN;_;Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing;11;parataxis;_;@aas1961m-words#@aas1961m#39.168#39.616
+15;/;/;PUNCT;_;_;7;punct;_;@aas1961m-words#@aas1961m#39.616#40.064
+16;ï;ï;PRON;_;Case=Nom|Number=Sing|Person=1;18;nsubj;_;@aas1961m-words#@aas1961m#40.064#40.512
+17;/;/;PUNCT;_;_;16;punct;_;@aas1961m-words#@aas1961m#40.512#40.960
+18;¬®£ã;¬®çì;VERB;_;Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act;3;ccomp;_;@aas1961m-words#@aas1961m#40.960#41.408
+19;â®«ìª®;â®«ìª®;PART;_;_;20;advmod;_;@aas1961m-words#@aas1961m#41.408#41.856
+20;à §¬ëè«¥­¨ï¬¨;à §¬ëè«¥­¨¥;NOUN;_;Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur;18;obl;_;@aas1961m-words#@aas1961m#41.856#42.304
+21;®¡;®;ADP;_;_;22;case;_;@aas1961m-words#@aas1961m#42.304#42.752
+22; áª¥§¥; áª¥§ ;NOUN;_;Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing;20;nmod;_;@aas1961m-words#@aas1961m#42.752#43.200
+23;¨;¨;CCONJ;_;_;25;cc;_;@aas1961m-words#@aas1961m#43.200#43.648
+24;á ¬®©;á ¬;ADJ;_;Case=Ins|Degree=Pos|Gender=Fem|Number=Sing;25;amod;_;@aas1961m-words#@aas1961m#43.648#44.096
+25; áª¥§®©; áª¥§ ;NOUN;_;Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing;22;conj;_;@aas1961m-words#@aas1961m#44.096#44.544
+26;.;.;PUNCT;_;_;3;punct;_;@aas1961m-words#@aas1961m#44.544#44.992
+;;;;;;;;;
+# sent_id = 3;;;;;;;;;
+# text = ®  áª¥§  ? íâ® ¯à ªâ¨ª  , ¢ëá®ª ï ¯à ªâ¨ª  ,     ¬ëá«ì ®¡  áª¥§¥ ¨ ¯à¥ª«®­¥­¨¥ / ¯¥à¥¤ íâ¨¬¨ ¬ëá«ï¬¨ , \ íâ® â® , \ ­  çâ® ï ª ª ãç¥­¨ª , \ â®£¤  ¥éñ ¢ â¥ £®¤ë / ? ãç¥­¨ª \ áà¥¤­¥© èª®«ë ¡ë« á¯®á®¡¥­ .;;;;;;;;;
+1;®;­®;CCONJ;_;_;5;cc;_;@aas1961m-words#@aas1961m#44.992#45.440
+2; áª¥§ ; áª¥§ ;NOUN;_;Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur;5;nsubj;_;@aas1961m-words#@aas1961m#45.440#45.888
+3;?;?;PUNCT;_;_;2;punct;_;@aas1961m-words#@aas1961m#45.888#46.336
+4;íâ®;íâ®;PRON;_;Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing;5;cop;_;@aas1961m-words#@aas1961m#46.336#46.784
+5;¯à ªâ¨ª ;¯à ªâ¨ª ;NOUN;_;Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing;0;root;_;@aas1961m-words#@aas1961m#46.784#47.232
+6;,;,;PUNCT;_;_;8;punct;_;@aas1961m-words#@aas1961m#47.232#47.680
+7;¢ëá®ª ï;¢ëá®ª¨©;ADJ;_;Case=Nom|Degree=Pos|Gender=Fem|Number=Sing;8;amod;_;@aas1961m-words#@aas1961m#47.680#48.128
+8;¯à ªâ¨ª ;¯à ªâ¨ª ;NOUN;_;Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing;5;conj;_;@aas1961m-words#@aas1961m#48.128#48.576
+9;,;,;PUNCT;_;_;10;punct;_;@aas1961m-words#@aas1961m#48.576#49.024
+10;   ;  ;NOUN;_;Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing;5;conj;_;@aas1961m-words#@aas1961m#49.024#49.472
+11;¬ëá«ì;¬ëá«ì;NOUN;_;Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing;10;nmod;_;@aas1961m-words#@aas1961m#49.472#49.920
+12;®¡;®;ADP;_;_;13;case;_;@aas1961m-words#@aas1961m#49.920#50.368
+13; áª¥§¥; áª¥§ ;NOUN;_;Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing;11;nmod;_;@aas1961m-words#@aas1961m#50.368#50.816
+14;¨;¨;CCONJ;_;_;15;cc;_;@aas1961m-words#@aas1961m#50.816#51.264
+15;¯à¥ª«®­¥­¨¥;¯à¥ª«®­¥­¨¥;NOUN;_;Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing;13;conj;_;@aas1961m-words#@aas1961m#51.264#51.712
+16;/;/;PUNCT;_;_;19;punct;_;@aas1961m-words#@aas1961m#51.712#52.160
+17;¯¥à¥¤;¯¥à¥¤;ADP;_;_;19;case;_;@aas1961m-words#@aas1961m#52.160#52.608
+18;íâ¨¬¨;íâ®â;DET;_;Case=Ins|Number=Plur;19;det;_;@aas1961m-words#@aas1961m#52.608#53.056
+19;¬ëá«ï¬¨;¬ëá«ì;NOUN;_;Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur;15;nmod;_;@aas1961m-words#@aas1961m#53.056#53.504
+20;,;,;PUNCT;_;_;23;punct;_;@aas1961m-words#@aas1961m#53.504#53.952
+21;\;\;PUNCT;_;_;23;punct;_;@aas1961m-words#@aas1961m#53.952#54.400
+22;íâ®;íâ®;PRON;_;Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing;23;nsubj;_;@aas1961m-words#@aas1961m#54.400#54.848
+23;â®;â®;PRON;_;Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing;19;conj;_;@aas1961m-words#@aas1961m#54.848#55.296
+24;,;,;PUNCT;_;_;45;punct;_;@aas1961m-words#@aas1961m#55.296#55.744
+25;\;\;PUNCT;_;_;45;punct;_;@aas1961m-words#@aas1961m#55.744#56.192
+26;­ ;­ ;ADP;_;_;27;case;_;@aas1961m-words#@aas1961m#56.192#56.640
+27;çâ®;çâ®;PRON;_;Case=Acc;45;obl;_;@aas1961m-words#@aas1961m#56.640#57.088
+28;ï;ï;PRON;_;Case=Nom|Number=Sing|Person=1;30;nsubj;_;@aas1961m-words#@aas1961m#57.088#57.536
+29;ª ª;ª ª;SCONJ;_;_;30;mark;_;@aas1961m-words#@aas1961m#57.536#57.984
+30;ãç¥­¨ª;ãç¥­¨ª;NOUN;_;Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing;27;acl;_;@aas1961m-words#@aas1961m#57.984#58.432
+31;,;,;PUNCT;_;_;27;punct;_;@aas1961m-words#@aas1961m#58.432#58.880
+32;\;\;PUNCT;_;_;27;punct;_;@aas1961m-words#@aas1961m#58.880#59.328
+33;â®£¤ ;â®£¤ ;ADV;_;Degree=Pos;45;advmod;_;@aas1961m-words#@aas1961m#59.328#59.776
+34;¥éñ;¥é¥;ADV;_;Degree=Pos;37;obl;_;@aas1961m-words#@aas1961m#59.776#60.224
+35;¢;¢;ADP;_;_;37;case;_;@aas1961m-words#@aas1961m#60.224#60.672
+36;â¥;â®â;DET;_;Case=Acc|Number=Plur;37;det;_;@aas1961m-words#@aas1961m#60.672#61.120
+37;£®¤ë;£®¤;NOUN;_;Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur;45;obl;_;@aas1961m-words#@aas1961m#61.120#61.568
+38;/;/;PUNCT;_;_;37;punct;_;@aas1961m-words#@aas1961m#61.568#62.016
+39;?;?;PUNCT;_;_;37;punct;_;@aas1961m-words#@aas1961m#62.016#62.464
+40;ãç¥­¨ª;ãç¥­¨ª;NOUN;_;Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing;45;nsubj;_;@aas1961m-words#@aas1961m#62.464#63.000
+41;\;\;PUNCT;_;_;40;punct;_;@aas1961m-words#@aas1961m#63.500#64.168
+42;áà¥¤­¥©;áà¥¤­¨©;ADJ;_;Case=Gen|Degree=Pos|Gender=Fem|Number=Sing;43;amod;_;@aas1961m-words#@aas1961m#64.168#64.836
+43;èª®«ë;èª®« ;NOUN;_;Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing;40;nmod;_;@aas1961m-words#@aas1961m#64.836#65.504
+44;¡ë«;¡ëâì;AUX;_;Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act;45;cop;_;@aas1961m-words#@aas1961m#65.504#66.172
+45;á¯®á®¡¥­;á¯®á®¡­ë©;ADJ;_;Degree=Pos|Gender=Masc|Number=Sing|Variant=Short;23;conj;_;@aas1961m-words#@aas1961m#66.172#66.840
+46;.;.;PUNCT;_;_;5;punct;_;@aas1961m-words#@aas1961m#66.840#67.508
+;;;;;;;;;
+# sent_id = 4;;;;;;;;;
+# text = / Ÿ ¬®£ ¯à¥ª«®­ïâìáï ¯¥à¥¤ «î¤ì¬¨ , / ª®â®àë¥ \ ¯® ¯à¨­ã¦¤¥­¨î «¨ / ¨«¨ ¯® á®¡áâ¢¥­­®© ¢®«¥ íâã  áª¥§ã ¯à¨­ï«¨ / ? ®­¨ ¦¨«¨ ¢ «¨è¥­¨ïå , ¦¨«¨ ¢ ­¨é¥â¥ , \ ®áâ ¢ ïáì ¯à¨ íâ® «î¤ì¬¨ / ¢«î¡«ñ­­ë¬¨ . ¨¨¨ ( ¤à®¦¨â ) Ž­¨ , / ï ¯®¬­î , / ¢á¥ ï¢«ï«¨ á®¡®î / ? á¢®¨¬ â¥«®¬ , / á¢®¥© ®¤¥¦¤®© ï¢«ï«¨ ¯®à®ª¨ ¬¨à  , / ¯®à®ª¨ ®¡é¥áâ¢  , / ®­¨ ­®á¨«¨ ¨å ­  á¥¡¥ .;;;;;;;;;
+1;/;/;PUNCT;_;_;3;punct;_;@aas1961m-words#@aas1961m#67.508#68.176
+2;Ÿ;ï;PRON;_;Case=Nom|Number=Sing|Person=1;3;nsubj;_;@aas1961m-words#@aas1961m#68.176#68.844
+3;¬®£;¬®çì;VERB;_;Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act;0;root;_;@aas1961m-words#@aas1961m#68.844#69.512
+4;¯à¥ª«®­ïâìáï;¯à¥ª«®­ïâìáï;VERB;_;Aspect=Perf|VerbForm=Inf|Voice=Mid;3;xcomp;_;@aas1961m-words#@aas1961m#69.512#70.180
+5;¯¥à¥¤;¯¥à¥¤;ADP;_;_;6;case;_;@aas1961m-words#@aas1961m#70.180#70.848
+6;«î¤ì¬¨;ç¥«®¢¥ª;NOUN;_;Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur;4;obl;_;@aas1961m-words#@aas1961m#70.848#71.516
+7;,;,;PUNCT;_;_;9;punct;_;@aas1961m-words#@aas1961m#71.516#72.184
+8;/;/;PUNCT;_;_;9;punct;_;@aas1961m-words#@aas1961m#72.184#72.852
+9;ª®â®àë¥;ª®â®àë©;PRON;_;Case=Nom;6;conj;_;@aas1961m-words#@aas1961m#72.852#73.520
+10;\;\;PUNCT;_;_;9;punct;_;@aas1961m-words#@aas1961m#73.520#74.188
+11;¯®;¯®;ADP;_;_;12;case;_;@aas1961m-words#@aas1961m#74.188#74.856
+12;¯à¨­ã¦¤¥­¨î;¯à¨­ã¦¤¥­¨¥;NOUN;_;Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing;9;orphan;_;@aas1961m-words#@aas1961m#74.856#75.524
+13;«¨;«¨;PART;_;_;12;advmod;_;@aas1961m-words#@aas1961m#75.524#76.192
+14;/;/;PUNCT;_;_;21;punct;_;@aas1961m-words#@aas1961m#76.192#76.860
+15;¨«¨;¨«¨;CCONJ;_;_;21;cc;_;@aas1961m-words#@aas1961m#76.860#77.528
+16;¯®;¯®;ADP;_;_;18;case;_;@aas1961m-words#@aas1961m#77.528#78.196
+17;á®¡áâ¢¥­­®©;á®¡áâ¢¥­­ë©;ADJ;_;Case=Dat|Degree=Pos|Gender=Fem|Number=Sing;18;amod;_;@aas1961m-words#@aas1961m#78.196#78.864
+18;¢®«¥;¢®«ï;NOUN;_;Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing;21;obl;_;@aas1961m-words#@aas1961m#78.864#79.532
+19;íâã;íâ®â;DET;_;Case=Acc|Gender=Fem|Number=Sing;20;det;_;@aas1961m-words#@aas1961m#79.532#80.200
+20; áª¥§ã; áª¥§ ;NOUN;_;Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing;21;obj;_;@aas1961m-words#@aas1961m#80.200#80.868
+21;¯à¨­ï«¨;¯à¨­ïâì;VERB;_;Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act;12;conj;_;@aas1961m-words#@aas1961m#80.868#81.536
+22;/;/;PUNCT;_;_;25;punct;_;@aas1961m-words#@aas1961m#81.536#82.204
+23;?;?;PUNCT;_;_;25;punct;_;@aas1961m-words#@aas1961m#82.204#82.872
+24;®­¨;®­¨;PRON;_;Case=Nom|Number=Plur|Person=3;25;nsubj;_;@aas1961m-words#@aas1961m#82.872#83.540
+25;¦¨«¨;¦¨âì;VERB;_;Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act;21;parataxis;_;@aas1961m-words#@aas1961m#83.540#84.208
+26;¢;¢;ADP;_;_;27;case;_;@aas1961m-words#@aas1961m#84.208#84.876
+27;«¨è¥­¨ïå;«¨è¥­¨¥;NOUN;_;Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur;25;obl;_;@aas1961m-words#@aas1961m#84.876#85.544
+28;,;,;PUNCT;_;_;29;punct;_;@aas1961m-words#@aas1961m#85.544#86.212
+29;¦¨«¨;¦¨âì;VERB;_;Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act;25;conj;_;@aas1961m-words#@aas1961m#86.212#86.880
+30;¢;¢;ADP;_;_;31;case;_;@aas1961m-words#@aas1961m#86.880#87.548
+31;­¨é¥â¥;­¨é¥â ;NOUN;_;Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing;29;obl;_;@aas1961m-words#@aas1961m#87.548#88.216
+32;,;,;PUNCT;_;_;43;punct;_;@aas1961m-words#@aas1961m#88.216#88.884
+33;\;\;PUNCT;_;_;43;punct;_;@aas1961m-words#@aas1961m#88.884#89.552
+34;®áâ ¢ ïáì;®áâ ¢ âìáï;VERB;_;Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid;43;advcl;_;@aas1961m-words#@aas1961m#89.552#90.220
+35;¯à¨;¯à¨;ADP;_;_;36;case;_;@aas1961m-words#@aas1961m#90.220#90.888
+36;íâ®;íâ®;PRON;_;Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing;34;obl;_;@aas1961m-words#@aas1961m#90.888#91.556
+37;«î¤ì¬¨;ç¥«®¢¥ª;NOUN;_;Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur;34;obl;_;@aas1961m-words#@aas1961m#91.556#92.224
+38;/;/;PUNCT;_;_;39;punct;_;@aas1961m-words#@aas1961m#92.224#92.892
+39;¢«î¡«ñ­­ë¬¨;¢«î¡«ñ­­ë©;ADJ;_;Case=Ins|Degree=Pos|Number=Plur;41;amod;_;@aas1961m-words#@aas1961m#92.892#93.560
+40;.;.;PUNCT;_;_;39;punct;_;@aas1961m-words#@aas1961m#93.560#94.228
+41;¨¨¨;¨¨ï;NOUN;_;Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing;37;nmod;_;@aas1961m-words#@aas1961m#94.228#94.896
+42;(;(;PUNCT;_;_;43;punct;_;@aas1961m-words#@aas1961m#94.896#95.564
+43;¤à®¦¨â;¤à®¦ âì;VERB;_;Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act;25;conj;_;@aas1961m-words#@aas1961m#95.564#96.232
+44;););PUNCT;_;_;43;punct;_;@aas1961m-words#@aas1961m#96.232#96.900
+45;Ž­¨;®­¨;PROPN;_;Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing;25;conj;_;@aas1961m-words#@aas1961m#96.900#97.568
+46;,;,;PUNCT;_;_;45;punct;_;@aas1961m-words#@aas1961m#97.568#98.236
+47;/;/;PUNCT;_;_;49;punct;_;@aas1961m-words#@aas1961m#98.236#98.904
+48;ï;ï;PRON;_;Case=Nom|Number=Sing|Person=1;49;nsubj;_;@aas1961m-words#@aas1961m#98.904#99.572
+49;¯®¬­î;¯®¬­¨âì;VERB;_;Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act;25;conj;_;@aas1961m-words#@aas1961m#99.572#100.240
+50;,;,;PUNCT;_;_;53;punct;_;@aas1961m-words#@aas1961m#100.240#100.908
+51;/;/;PUNCT;_;_;53;punct;_;@aas1961m-words#@aas1961m#100.908#101.576
+52;¢á¥;¢á¥;PRON;_;Animacy=Anim|Case=Nom|Number=Plur;53;nsubj;_;@aas1961m-words#@aas1961m#101.576#102.244
+53;ï¢«ï«¨;ï¢«ï­ãâì;VERB;_;Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act;25;conj;_;@aas1961m-words#@aas1961m#102.244#102.912
+54;á®¡®î;á¥¡ï;PRON;_;Case=Ins;53;obl;_;@aas1961m-words#@aas1961m#102.912#103.580
+55;/;/;PUNCT;_;_;58;punct;_;@aas1961m-words#@aas1961m#103.580#104.248
+56;?;?;PUNCT;_;_;54;punct;_;@aas1961m-words#@aas1961m#104.248#104.916
+57;á¢®¨¬;á¢®©;DET;_;Case=Ins|Gender=Neut|Number=Sing;58;det;_;@aas1961m-words#@aas1961m#104.916#105.584
+58;â¥«®¬;â¥«®;NOUN;_;Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing;54;nmod;_;@aas1961m-words#@aas1961m#105.584#106.252
+59;,;,;PUNCT;_;_;63;punct;_;@aas1961m-words#@aas1961m#106.252#106.920
+60;/;/;PUNCT;_;_;63;punct;_;@aas1961m-words#@aas1961m#106.920#107.588
+61;á¢®¥©;á¢®©;DET;_;Case=Ins|Gender=Fem|Number=Sing;62;det;_;@aas1961m-words#@aas1961m#107.588#108.256
+62;®¤¥¦¤®©;®¤¥¦¤ ;NOUN;_;Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing;63;obl;_;@aas1961m-words#@aas1961m#108.256#108.924
+63;ï¢«ï«¨;ï¢«ïâì;VERB;_;Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act;58;conj;_;@aas1961m-words#@aas1961m#108.924#109.592
+64;¯®à®ª¨;¯®à®ª;NOUN;_;Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur;63;obj;_;@aas1961m-words#@aas1961m#109.592#110.260
+65;¬¨à ;¬¨à;NOUN;_;Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing;64;nmod;_;@aas1961m-words#@aas1961m#110.260#110.928
+66;,;,;PUNCT;_;_;68;punct;_;@aas1961m-words#@aas1961m#110.928#111.596
+67;/;/;PUNCT;_;_;68;punct;_;@aas1961m-words#@aas1961m#111.596#112.264
+68;¯®à®ª¨;¯®à®ª;NOUN;_;Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur;58;conj;_;@aas1961m-words#@aas1961m#112.264#112.932
+69;®¡é¥áâ¢ ;®¡é¥áâ¢®;NOUN;_;Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing;68;nmod;_;@aas1961m-words#@aas1961m#112.932#113.600
+70;,;,;PUNCT;_;_;73;punct;_;@aas1961m-words#@aas1961m#113.600#114.268
+71;/;/;PUNCT;_;_;73;punct;_;@aas1961m-words#@aas1961m#114.268#114.936
+72;®­¨;®­¨;PRON;_;Case=Nom|Number=Plur|Person=3;73;nsubj;_;@aas1961m-words#@aas1961m#114.936#115.604
+73;­®á¨«¨;­®á¨âì;VERB;_;Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act;68;conj;_;@aas1961m-words#@aas1961m#115.604#116.272
+74;¨å;®­¨;PRON;_;Case=Acc|Number=Plur|Person=3;73;obj;_;@aas1961m-words#@aas1961m#116.272#116.940
+75;­ ;­ ;ADP;_;_;76;case;_;@aas1961m-words#@aas1961m#116.940#117.608
+76;á¥¡¥;á¥¡ï;PRON;_;Case=Loc;73;obl;_;@aas1961m-words#@aas1961m#117.608#118.276
+77;.;.;PUNCT;_;_;3;punct;_;@aas1961m-words#@aas1961m#118.276#119.000
+;;;;;;;;;
+# sent_id = 5;;;;;;;;;
+# text = ‚ è¨ £¥à®¨ , ¬¬¬ ­ã ¢ë ¬¬¬ ¨å ¤®«£® ¢¨¤¥«¨ , \ ¢ë ¡ë«¨ §­ ª®¬ë á ­¨¬¨ , ¤  , / ¨å â ª ¬­®£® ¨ ª ª-â® ¢ ®¤­®¬ ¬¥áâ¥ , / £¤¥ íâ® / ¨ ª ª ¢ë á ­¨¬¨ ¯®§­ ª®¬¨«¨áì;;;;;;;;;
+1;‚ è¨;¢ è;DET;_;Case=Nom|Number=Plur;2;det;_;@aaa1961f-words#@aaa1961f#119.454#119.956
+2;£¥à®¨;£¥à®©;NOUN;_;Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur;10;nsubj;_;@aaa1961f-words#@aaa1961f#119.956#120.458
+3;,;,;PUNCT;_;_;4;punct;_;@aaa1961f-words#@aaa1961f#120.458#120.960
+4;¬¬¬;¬¬;NOUN;_;Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing;2;conj;_;@aaa1961f-words#@aaa1961f#120.960#121.462
+5;­ã;­ã;PART;_;_;6;discourse;_;@aaa1961f-words#@aaa1961f#121.462#121.964
+6;¢ë;¢ë;PRON;_;Case=Nom|Number=Plur|Person=2;10;nsubj;_;@aaa1961f-words#@aaa1961f#121.964#122.466
+7;¬¬¬;¬¬;NOUN;_;Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing;10;nsubj;_;@aaa1961f-words#@aaa1961f#122.466#122.968
+8;¨å;®­¨;PRON;_;Case=Acc|Number=Plur|Person=3;10;obj;_;@aaa1961f-words#@aaa1961f#122.968#123.470
+9;¤®«£®;¤®«£®;ADV;_;Degree=Pos;10;advmod;_;@aaa1961f-words#@aaa1961f#123.470#123.972
+10;¢¨¤¥«¨;¢¨¤¥âì;VERB;_;Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act;0;root;_;@aaa1961f-words#@aaa1961f#123.972#124.474
+11;,;,;PUNCT;_;_;15;punct;_;@aaa1961f-words#@aaa1961f#124.474#124.976
+12;\;\;PUNCT;_;_;15;punct;_;@aaa1961f-words#@aaa1961f#124.976#125.478
+13;¢ë;¢ë;PRON;_;Case=Nom|Number=Plur|Person=2;15;nsubj;_;@aaa1961f-words#@aaa1961f#125.478#125.980
+14;¡ë«¨;¡ëâì;AUX;_;Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act;15;cop;_;@aaa1961f-words#@aaa1961f#125.980#126.482
+15;§­ ª®¬ë;§­ ª®¬ë©;ADJ;_;Degree=Pos|Number=Plur|Variant=Short;10;conj;_;@aaa1961f-words#@aaa1961f#126.482#126.984
+16;á;á;ADP;_;_;17;case;_;@aaa1961f-words#@aaa1961f#126.984#127.486
+17;­¨¬¨;®­¨;PRON;_;Case=Ins|Number=Plur|Person=3;15;obl;_;@aaa1961f-words#@aaa1961f#127.486#127.988
+18;,;,;PUNCT;_;_;24;punct;_;@aaa1961f-words#@aaa1961f#127.988#128.490
+19;¤ ;¤ ;CCONJ;_;_;24;cc;_;@aaa1961f-words#@aaa1961f#128.490#128.992
+20;,;,;PUNCT;_;_;24;punct;_;@aaa1961f-words#@aaa1961f#128.992#129.494
+21;/;/;PUNCT;_;_;24;punct;_;@aaa1961f-words#@aaa1961f#129.494#129.996
+22;¨å;®­¨;PRON;_;Case=Acc|Number=Plur|Person=3;24;nsubj;_;@aaa1961f-words#@aaa1961f#129.996#130.498
+23;â ª;â ª;ADV;_;Degree=Pos;24;advmod;_;@aaa1961f-words#@aaa1961f#130.498#131.000
+24;¬­®£®;¬­®£®;ADV;_;Degree=Pos;10;conj;_;@aaa1961f-words#@aaa1961f#131.000#131.502
+25;¨;¨;CCONJ;_;_;29;cc;_;@aaa1961f-words#@aaa1961f#131.502#132.004
+26;ª ª-â®;ª ª-â®;ADV;_;Degree=Pos;29;obl;_;@aaa1961f-words#@aaa1961f#132.004#132.506
+27;¢;¢;ADP;_;_;29;case;_;@aaa1961f-words#@aaa1961f#132.506#133.008
+28;®¤­®¬;®¤¨­;DET;_;Case=Loc|Degree=Pos|Gender=Neut|Number=Sing;29;amod;_;@aaa1961f-words#@aaa1961f#133.008#133.510
+29;¬¥áâ¥;¬¥áâ®;NOUN;_;Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing;10;conj;_;@aaa1961f-words#@aaa1961f#133.510#134.012
+30;,;,;PUNCT;_;_;40;punct;_;@aaa1961f-words#@aaa1961f#134.012#134.514
+31;/;/;PUNCT;_;_;32;punct;_;@aaa1961f-words#@aaa1961f#134.514#135.016
+32;£¤¥;£¤¥;ADV;_;Degree=Pos;40;advmod;_;@aaa1961f-words#@aaa1961f#135.016#135.518
+33;íâ®;íâ®;PRON;_;Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing;40;parataxis;_;@aaa1961f-words#@aaa1961f#135.518#136.020
+34;/;/;PUNCT;_;_;33;punct;_;@aaa1961f-words#@aaa1961f#136.020#136.522
+35;¨;¨;CCONJ;_;_;40;cc;_;@aaa1961f-words#@aaa1961f#136.522#137.024
+36;ª ª;ª ª;ADV;_;Degree=Pos;40;advmod;_;@aaa1961f-words#@aaa1961f#137.024#137.526
+37;¢ë;¢ë;PRON;_;Case=Nom|Number=Plur|Person=2;40;nsubj;_;@aaa1961f-words#@aaa1961f#137.526#138.028
+38;á;á;ADP;_;_;39;case;_;@aaa1961f-words#@aaa1961f#138.028#138.530
+39;­¨¬¨;®­¨;PRON;_;Case=Ins|Number=Plur|Person=3;40;obl;_;@aaa1961f-words#@aaa1961f#138.530#139.032
+40;¯®§­ ª®¬¨«¨áì;§­ ª®¬¨âìáï;VERB;_;Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid;29;acl:relcl;_;@aaa1961f-words#@aaa1961f#139.032#139.545
+;;;;;;;;;
+# sent_id = 6;;;;;;;;;
+# text = ƒ®à®¤ â ª®¢ ? £®à®¤ ®ç¥­ì ¬¨­¨ âîà­ë© , / ¯ âà¨ àå «ì­ë© £®à®¤ , Š¨è¨­¥¢ , / £®à®¤ ®¤­®íâ ¦­ëå ¤®¬¨ª®¢ ¨¨¨ \ ï , ª ª ¢¯à®ç¥¬ ¨ «î¡®© ¤àã£®© à¥¡ñ­®ª , / ¢§à®á«ë© , / §­ «¨ â¥å «î¤¥© , / ¢á¥å â¥å «î¤¥© , ª®â®àë¥ ®â«¨ç «¨áì ®â ¡®«ìè¨­áâ¢  , / ¢ ¯¥à¢ãî ®ç¥à¥¤ì ? ¢­¥è­®áâì .;;;;;;;;;
+1;ƒ®à®¤;£®à®¤;NOUN;_;Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing;2;nsubj;_;@aas1961m-words#@aas1961m#140.000#140.430
+2;â ª®¢;â ª®¢;ADJ;_;Degree=Pos|Gender=Masc|Number=Sing|Variant=Short;0;root;_;@aas1961m-words#@aas1961m#140.430#140.860
+3;?;?;PUNCT;_;_;4;punct;_;@aas1961m-words#@aas1961m#140.860#141.290
+4;£®à®¤;£®à®¤;NOUN;_;Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing;2;parataxis;_;@aas1961m-words#@aas1961m#141.290#141.720
+5;®ç¥­ì;®ç¥­ì;ADV;_;Degree=Pos;6;obl;_;@aas1961m-words#@aas1961m#141.720#142.150
+6;¬¨­¨ âîà­ë©;¬¨­¨ âîà­ë©;ADJ;_;Case=Nom|Degree=Pos|Gender=Masc|Number=Sing;4;amod;_;@aas1961m-words#@aas1961m#142.150#142.580
+7;,;,;PUNCT;_;_;10;punct;_;@aas1961m-words#@aas1961m#142.580#143.010
+8;/;/;PUNCT;_;_;10;punct;_;@aas1961m-words#@aas1961m#143.010#143.440
+9;¯ âà¨ àå «ì­ë©;¯ âà¨ àå «ì­ë©;ADJ;_;Case=Nom|Degree=Pos|Gender=Masc|Number=Sing;10;amod;_;@aas1961m-words#@aas1961m#143.440#143.870
+10;£®à®¤;£®à®¤;NOUN;_;Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing;6;conj;_;@aas1961m-words#@aas1961m#143.870#144.300
+11;,;,;PUNCT;_;_;12;punct;_;@aas1961m-words#@aas1961m#144.300#144.730
+12;Š¨è¨­¥¢;Š¨è¨­¥¢;PROPN;_;Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing;4;conj;_;@aas1961m-words#@aas1961m#144.730#145.160
+13;,;,;PUNCT;_;_;15;punct;_;@aas1961m-words#@aas1961m#145.160#145.590
+14;/;/;PUNCT;_;_;15;punct;_;@aas1961m-words#@aas1961m#145.590#146.020
+15;£®à®¤;£®à®¤;NOUN;_;Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing;4;conj;_;@aas1961m-words#@aas1961m#146.020#146.450
+16;®¤­®íâ ¦­ëå;®¤­®íâ ¦­ë©;ADJ;_;Case=Gen|Degree=Pos|Number=Plur;17;amod;_;@aas1961m-words#@aas1961m#146.450#146.880
+17;¤®¬¨ª®¢;¤®¬¨ª;NOUN;_;Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur;15;nmod;_;@aas1961m-words#@aas1961m#146.880#147.310
+18;¨¨¨;¨¨ï;NOUN;_;Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing;17;nmod;_;@aas1961m-words#@aas1961m#147.310#147.740
+19;\;\;PUNCT;_;_;27;punct;_;@aas1961m-words#@aas1961m#147.740#148.170
+20;ï;ï;PRON;_;Case=Nom|Number=Sing|Person=1;27;nsubj;_;@aas1961m-words#@aas1961m#148.170#148.600
+21;,;,;PUNCT;_;_;20;punct;_;@aas1961m-words#@aas1961m#148.600#149.030
+22;ª ª;ª ª;SCONJ;_;_;23;mark;_;@aas1961m-words#@aas1961m#149.030#149.460
+23;¢¯à®ç¥¬;¢¯à®ç¥¬;ADV;_;Degree=Pos;27;parataxis;_;@aas1961m-words#@aas1961m#149.460#149.890
+24;¨;¨;PART;_;_;25;advmod;_;@aas1961m-words#@aas1961m#149.890#150.320
+25;«î¡®©;«î¡®©;DET;_;Case=Nom|Gender=Masc|Number=Sing;27;det;_;@aas1961m-words#@aas1961m#150.320#150.750
+26;¤àã£®©;¤àã£®©;ADJ;_;Case=Nom|Degree=Pos|Gender=Masc|Number=Sing;27;amod;_;@aas1961m-words#@aas1961m#150.750#151.180
+27;à¥¡ñ­®ª;à¥¡ñ­ª ;NOUN;_;Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing;4;conj;_;@aas1961m-words#@aas1961m#151.180#151.610
+28;,;,;PUNCT;_;_;35;punct;_;@aas1961m-words#@aas1961m#151.610#152.040
+29;/;/;PUNCT;_;_;30;punct;_;@aas1961m-words#@aas1961m#152.040#152.470
+30;¢§à®á«ë©;¢§à®á«ë©;ADJ;_;Case=Nom|Degree=Pos|Gender=Masc|Number=Sing;35;parataxis;_;@aas1961m-words#@aas1961m#152.470#152.900
+31;,;,;PUNCT;_;_;35;punct;_;@aas1961m-words#@aas1961m#152.900#153.330
+32;/;/;PUNCT;_;_;33;punct;_;@aas1961m-words#@aas1961m#153.330#153.760
+33;§­ «¨;§­ âì;VERB;_;Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act;35;parataxis;_;@aas1961m-words#@aas1961m#153.760#154.190
+34;â¥å;â®â;DET;_;Case=Acc|Number=Plur;35;det;_;@aas1961m-words#@aas1961m#154.190#154.620
+35;«î¤¥©;ç¥«®¢¥ª;NOUN;_;Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur;27;conj;_;@aas1961m-words#@aas1961m#154.620#155.050
+36;,;,;PUNCT;_;_;40;punct;_;@aas1961m-words#@aas1961m#155.050#155.480
+37;/;/;PUNCT;_;_;40;punct;_;@aas1961m-words#@aas1961m#155.480#155.910
+38;¢á¥å;¢¥áì;DET;_;Case=Gen|Number=Plur;40;det;_;@aas1961m-words#@aas1961m#155.910#156.340
+39;â¥å;â®â;DET;_;Case=Gen|Number=Plur;40;det;_;@aas1961m-words#@aas1961m#156.340#156.770
+40;«î¤¥©;ç¥«®¢¥ª;NOUN;_;Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur;35;conj;_;@aas1961m-words#@aas1961m#156.770#157.200
+41;,;,;PUNCT;_;_;43;punct;_;@aas1961m-words#@aas1961m#157.200#157.630
+42;ª®â®àë¥;ª®â®àë©;PRON;_;Case=Nom;43;nsubj;_;@aas1961m-words#@aas1961m#157.630#158.060
+43;®â«¨ç «¨áì;®â«¨ç âìáï;VERB;_;Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid;40;acl:relcl;_;@aas1961m-words#@aas1961m#158.060#158.490
+44;®â;®â;ADP;_;_;45;case;_;@aas1961m-words#@aas1961m#158.490#158.920
+45;¡®«ìè¨­áâ¢ ;¡®«ìè¨­áâ¢®;NOUN;_;Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing;43;obl;_;@aas1961m-words#@aas1961m#158.920#159.350
+46;,;,;PUNCT;_;_;52;punct;_;@aas1961m-words#@aas1961m#159.350#159.780
+47;/;/;PUNCT;_;_;52;punct;_;@aas1961m-words#@aas1961m#159.780#160.210
+48;¢;¢;ADP;_;_;52;discourse;_;@aas1961m-words#@aas1961m#160.210#160.640
+49;¯¥à¢ãî;¯¥à¢ë©;ADJ;_;Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing;48;fixed;_;@aas1961m-words#@aas1961m#160.640#161.070
+50;®ç¥à¥¤ì;®ç¥à¥¤ì;NOUN;_;Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing;48;fixed;_;@aas1961m-words#@aas1961m#161.070#161.500
+51;?;?;PUNCT;_;_;52;punct;_;@aas1961m-words#@aas1961m#161.500#161.930
+52;¢­¥è­®áâì;¢­¥è­®áâì;NOUN;_;Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing;35;conj;_;@aas1961m-words#@aas1961m#161.930#162.360
+53;.;.;PUNCT;_;_;2;punct;_;@aas1961m-words#@aas1961m#162.360#162.790
+;;;;;;;;;
+# sent_id = 7;;;;;;;;;
+# text = / ’®£¤  ­¨é¨å ¡ë«® ­¥ â ª ¬­®£® / ¨ ï / §­ « ¨å ¢á¥å , ¨ ¢á¥ §­ «¨ íâ¨å «î¤¥© : / ®¤­¨ ¯à®áâ® §­ «¨ ®¡ ¨å áãé¥áâ¢®¢ ­¨¨ ,   ¤àã£¨¥ §­ ª®¬¨«¨áì á ­¨¬¨ / ¡«¨¦¥ .;;;;;;;;;
+1;/;/;PUNCT;_;_;6;punct;_;@aas1961m-words#@aas1961m#162.790#163.220
+2;’®£¤ ;â®£¤ ;ADV;_;Degree=Pos;6;advmod;_;@aas1961m-words#@aas1961m#163.220#163.650
+3;­¨é¨å;­¨é¨©;ADJ;_;Case=Gen|Degree=Pos|Number=Plur;6;nsubj;_;@aas1961m-words#@aas1961m#163.650#164.080
+4;¡ë«®;¡ëâì;AUX;_;Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act;6;cop;_;@aas1961m-words#@aas1961m#164.080#164.510
+5;­¥;­¥;PART;_;_;6;advmod;_;@aas1961m-words#@aas1961m#164.510#164.940
+6;â ª;â ª;ADV;_;Degree=Pos;12;parataxis;_;@aas1961m-words#@aas1961m#164.940#165.370
+7;¬­®£®;¬­®£®;ADV;_;Degree=Pos;6;nsubj;_;@aas1961m-words#@aas1961m#165.370#165.800
+8;/;/;PUNCT;_;_;10;punct;_;@aas1961m-words#@aas1961m#165.800#166.230
+9;¨;¨;PART;_;_;10;advmod;_;@aas1961m-words#@aas1961m#166.230#166.660
+10;ï;ï;PRON;_;Case=Nom|Number=Sing|Person=1;12;nsubj;_;@aas1961m-words#@aas1961m#166.660#167.090
+11;/;/;PUNCT;_;_;10;punct;_;@aas1961m-words#@aas1961m#167.090#167.520
+12;§­ «;§­ âì;VERB;_;Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act;0;root;_;@aas1961m-words#@aas1961m#167.520#167.950
+13;¨å;®­¨;PRON;_;Case=Acc|Number=Plur|Person=3;12;obj;_;@aas1961m-words#@aas1961m#167.950#168.380
+14;¢á¥å;¢¥áì;DET;_;Case=Acc|Number=Plur;12;det;_;@aas1961m-words#@aas1961m#168.380#168.810
+15;,;,;PUNCT;_;_;18;punct;_;@aas1961m-words#@aas1961m#168.810#169.240
+16;¨;¨;CCONJ;_;_;18;cc;_;@aas1961m-words#@aas1961m#169.240#169.670
+17;¢á¥;¢á¥;PRON;_;Animacy=Anim|Case=Nom|Number=Plur;18;nsubj;_;@aas1961m-words#@aas1961m#169.670#170.100
+18;§­ «¨;§­ âì;VERB;_;Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act;12;conj;_;@aas1961m-words#@aas1961m#170.100#170.530
+19;íâ¨å;íâ®â;DET;_;Case=Acc|Number=Plur;20;det;_;@aas1961m-words#@aas1961m#170.530#170.960
+20;«î¤¥©;ç¥«®¢¥ª;NOUN;_;Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur;18;obj;_;@aas1961m-words#@aas1961m#170.960#171.390
+21;:;:;PUNCT;_;_;20;punct;_;@aas1961m-words#@aas1961m#171.390#171.820
+22;/;/;PUNCT;_;_;25;punct;_;@aas1961m-words#@aas1961m#171.820#172.250
+23;®¤­¨;®¤¨­;DET;_;Case=Nom|Degree=Pos|Number=Plur;25;nsubj;_;@aas1961m-words#@aas1961m#172.250#172.680
+24;¯à®áâ®;¯à®áâ®;PART;_;_;25;advmod;_;@aas1961m-words#@aas1961m#172.680#173.110
+25;§­ «¨;§­ âì;VERB;_;Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act;20;parataxis;_;@aas1961m-words#@aas1961m#173.110#173.540
+26;®¡;®;ADP;_;_;28;case;_;@aas1961m-words#@aas1961m#173.540#173.970
+27;¨å;¨å;DET;_;_;28;det;_;@aas1961m-words#@aas1961m#173.970#174.400
+28;áãé¥áâ¢®¢ ­¨¨;áãé¥áâ¢®¢ ­¨¥;NOUN;_;Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing;25;obl;_;@aas1961m-words#@aas1961m#174.400#174.830
+29;,;,;PUNCT;_;_;32;punct;_;@aas1961m-words#@aas1961m#174.830#175.260
+30; ; ;CCONJ;_;_;32;cc;_;@aas1961m-words#@aas1961m#175.260#175.690
+31;¤àã£¨¥;¤àã£®©;ADJ;_;Case=Nom|Degree=Pos|Number=Plur;32;nsubj;_;@aas1961m-words#@aas1961m#175.690#176.120
+32;§­ ª®¬¨«¨áì;§­ ª®¬¨âìáï;VERB;_;Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid;25;conj;_;@aas1961m-words#@aas1961m#176.120#176.550
+33;á;á;ADP;_;_;34;case;_;@aas1961m-words#@aas1961m#176.550#176.980
+34;­¨¬¨;®­¨;PRON;_;Case=Ins|Number=Plur|Person=3;32;obl;_;@aas1961m-words#@aas1961m#176.980#177.410
+35;/;/;PUNCT;_;_;36;punct;_;@aas1961m-words#@aas1961m#177.410#177.840
+36;¡«¨¦¥;¡«¨§ª¨©;ADJ;_;Degree=Cmp;32;obl;_;@aas1961m-words#@aas1961m#177.840#178.270
+37;.;.;PUNCT;_;_;12;punct;_;@aas1961m-words#@aas1961m#178.270#178.700
+;;;;;;;;;
+# sent_id = 8;;;;;;;;;
+# text = Ÿïï ¥éñ ª®£¤  ¢ë¡¥£ « / á § ­ïâ¨© / ï ¬¬¬ ¨áª « ®â¢¥â®¢ , ­  ¢®¯à®áë , ª®â®àë¥ / ­¥ ®â¢¥ç «¨ ¯à¥¯®¤ ¢ â¥«¨ ¢ èª®«¥ , / ­¥ ®â¢¥ç «¨ ¬®¨ à®¤¨â¥«¨ , ¨ ï ®¡à é «áï / §  ®â¢¥â®¬ ª «î¤ï¬ , ¥áâ¥áâ¢¥­­® , ¯¥à¥áâà ¤ ¢è¨¬ , / ®ç¥­ì ¬­®£® ¨ ª «î¤ï¬ , / ¥éñ ­¥ ®â®è¥¤è¨¬ ®â ¯®âàïá¥­¨© .;;;;;;;;;
+1;Ÿïï;Ÿï¥;VERB;_;Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act;0;root;_;@aas1961m-words#@aas1961m#178.700#179.130
+2;¥éñ;¥é¥;ADV;_;Degree=Pos;4;advmod;_;@aas1961m-words#@aas1961m#179.130#179.560
+3;ª®£¤ ;ª®£¤ ;SCONJ;_;_;4;mark;_;@aas1961m-words#@aas1961m#179.560#179.990
+4;¢ë¡¥£ «;¢ë¡¥£ âì;VERB;_;Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act;1;advcl;_;@aas1961m-words#@aas1961m#179.990#180.420
+5;/;/;PUNCT;_;_;7;punct;_;@aas1961m-words#@aas1961m#180.420#180.850
+6;á;á;ADP;_;_;7;case;_;@aas1961m-words#@aas1961m#180.850#181.280
+7;§ ­ïâ¨©;§ ­ïâ¨¥;NOUN;_;Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur;4;obl;_;@aas1961m-words#@aas1961m#181.280#181.710
+8;/;/;PUNCT;_;_;11;punct;_;@aas1961m-words#@aas1961m#181.710#182.140
+9;ï;ï;PRON;_;Case=Nom|Number=Sing|Person=1;11;nsubj;_;@aas1961m-words#@aas1961m#182.140#182.570
+10;¬¬¬;¬¬;NOUN;_;Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing;11;nsubj;_;@aas1961m-words#@aas1961m#182.570#183.000
+11;¨áª «;¨áª âì;VERB;_;Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act;4;conj;_;@aas1961m-words#@aas1961m#183.000#183.430
+12;®â¢¥â®¢;®â¢¥â;NOUN;_;Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur;11;obl;_;@aas1961m-words#@aas1961m#183.430#183.860
+13;,;,;PUNCT;_;_;15;punct;_;@aas1961m-words#@aas1961m#183.860#184.290
+14;­ ;­ ;ADP;_;_;15;case;_;@aas1961m-words#@aas1961m#184.290#184.720
+15;¢®¯à®áë;¢®¯à®á;NOUN;_;Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur;11;obl;_;@aas1961m-words#@aas1961m#184.720#185.150
+16;,;,;PUNCT;_;_;20;punct;_;@aas1961m-words#@aas1961m#185.150#185.580
+17;ª®â®àë¥;ª®â®àë©;PRON;_;Case=Nom;20;nsubj;_;@aas1961m-words#@aas1961m#185.580#186.010
+18;/;/;PUNCT;_;_;17;punct;_;@aas1961m-words#@aas1961m#186.010#186.440
+19;­¥;­¥;PART;_;_;20;advmod;_;@aas1961m-words#@aas1961m#186.440#186.870
+20;®â¢¥ç «¨;®â¢¥ç âì;VERB;_;Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act;15;acl:relcl;_;@aas1961m-words#@aas1961m#186.870#187.300
+21;¯à¥¯®¤ ¢ â¥«¨;¯à¥¯®¤ ¢ â¥«ì;NOUN;_;Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur;20;obl;_;@aas1961m-words#@aas1961m#187.300#187.730
+22;¢;¢;ADP;_;_;23;case;_;@aas1961m-words#@aas1961m#187.730#188.160
+23;èª®«¥;èª®« ;NOUN;_;Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing;21;nmod;_;@aas1961m-words#@aas1961m#188.160#188.590
+24;,;,;PUNCT;_;_;23;punct;_;@aas1961m-words#@aas1961m#188.590#189.020
+25;/;/;PUNCT;_;_;23;punct;_;@aas1961m-words#@aas1961m#189.020#189.450
+26;­¥;­¥;PART;_;_;27;advmod;_;@aas1961m-words#@aas1961m#189.450#189.880
+27;®â¢¥ç «¨;®â¢¥ç âì;VERB;_;Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act;20;parataxis;_;@aas1961m-words#@aas1961m#189.880#190.310
+28;¬®¨;¬®©;DET;_;Case=Nom|Number=Plur;29;det;_;@aas1961m-words#@aas1961m#190.310#190.740
+29;à®¤¨â¥«¨;à®¤¨â¥«ì;NOUN;_;Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur;27;nsubj;_;@aas1961m-words#@aas1961m#190.740#191.170
+30;,;,;PUNCT;_;_;33;punct;_;@aas1961m-words#@aas1961m#191.170#191.600
+31;¨;¨;CCONJ;_;_;33;cc;_;@aas1961m-words#@aas1961m#191.600#192.030
+32;ï;ï;PRON;_;Case=Nom|Number=Sing|Person=1;33;nsubj;_;@aas1961m-words#@aas1961m#192.030#192.460
+33;®¡à é «áï;®¡à é âìáï;VERB;_;Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid;27;conj;_;@aas1961m-words#@aas1961m#192.460#192.890
+34;/;/;PUNCT;_;_;36;punct;_;@aas1961m-words#@aas1961m#192.890#193.320
+35;§ ;§ ;ADP;_;_;36;case;_;@aas1961m-words#@aas1961m#193.320#193.750
+36;®â¢¥â®¬;®â¢¥â;NOUN;_;Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing;33;obl;_;@aas1961m-words#@aas1961m#193.750#194.180
+37;ª;ª;ADP;_;_;38;case;_;@aas1961m-words#@aas1961m#194.180#194.610
+38;«î¤ï¬;ç¥«®¢¥ª;NOUN;_;Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur;36;nmod;_;@aas1961m-words#@aas1961m#194.610#195.040
+39;,;,;PUNCT;_;_;42;punct;_;@aas1961m-words#@aas1961m#195.040#195.470
+40;¥áâ¥áâ¢¥­­®;¥áâ¥áâ¢¥­­®;ADV;_;Degree=Pos;42;parataxis;_;@aas1961m-words#@aas1961m#195.470#195.900
+41;,;,;PUNCT;_;_;40;punct;_;@aas1961m-words#@aas1961m#195.900#196.330
+42;¯¥à¥áâà ¤ ¢è¨¬;¯¥à¥áâà ¤ âì;VERB;_;Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act;27;conj;_;@aas1961m-words#@aas1961m#196.330#196.760
+43;,;,;PUNCT;_;_;42;punct;_;@aas1961m-words#@aas1961m#196.760#197.190
+44;/;/;PUNCT;_;_;46;punct;_;@aas1961m-words#@aas1961m#197.190#197.620
+45;®ç¥­ì;®ç¥­ì;ADV;_;Degree=Pos;46;advmod;_;@aas1961m-words#@aas1961m#197.620#198.050
+46;¬­®£®;¬­®£®;ADV;_;Degree=Pos;42;nsubj;_;@aas1961m-words#@aas1961m#198.050#198.480
+47;¨;¨;CCONJ;_;_;49;cc;_;@aas1961m-words#@aas1961m#198.480#198.910
+48;ª;ª;ADP;_;_;49;case;_;@aas1961m-words#@aas1961m#198.910#199.340
+49;«î¤ï¬;ç¥«®¢¥ª;NOUN;_;Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur;46;conj;_;@aas1961m-words#@aas1961m#199.340#199.770
+50;,;,;PUNCT;_;_;54;punct;_;@aas1961m-words#@aas1961m#199.770#200.200
+51;/;/;PUNCT;_;_;54;punct;_;@aas1961m-words#@aas1961m#200.200#200.630
+52;¥éñ;¥é¥;ADV;_;Degree=Pos;54;advmod;_;@aas1961m-words#@aas1961m#200.630#201.060
+53;­¥;­¥;PART;_;_;54;advmod;_;@aas1961m-words#@aas1961m#201.060#201.490
+54;®â®è¥¤è¨¬;®â®©â¨;VERB;_;Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act;49;acl;_;@aas1961m-words#@aas1961m#201.490#201.920
+55;®â;®â;ADP;_;_;56;case;_;@aas1961m-words#@aas1961m#201.920#202.350
+56;¯®âàïá¥­¨©;¯®âàïá¥­¨¥;NOUN;_;Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur;54;obl;_;@aas1961m-words#@aas1961m#202.350#202.780
+57;.;.;PUNCT;_;_;11;punct;_;@aas1961m-words#@aas1961m#202.780#203.210
+;;;;;;;;;
+# sent_id = 9;;;;;;;;;
+# text = â¨¬¨ «î¤ì¬¨ ¡ë«¨ «î¤¨ , ¯®¡ë¢ ¢è¨¥ ¢ § ª«îç¥­¨ïå , / ¢ áã¬ áè¥¤è¨å ¤®¬ å , / ­¨é¨¥ , / «î¤¨ , / ª®â®àë¥ , ®¤­ ª® , á®åà ­ï«¨ ¢«î¡«ñ­­®áâì / ¨ á®åà ­ï«¨ , / á®åà ­ï«¨ / ¤¢¨¦¥­¨¥ / ¢ á¥¡¥ .;;;;;;;;;
+1;â¨¬¨;íâ®â;DET;_;Case=Ins|Number=Plur;2;det;_;@aas1961m-words#@aas1961m#203.210#203.640
+2;«î¤ì¬¨;ç¥«®¢¥ª;NOUN;_;Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur;3;obl;_;@aas1961m-words#@aas1961m#203.640#204.070
+3;¡ë«¨;¡ëâì;VERB;_;Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act;0;root;_;@aas1961m-words#@aas1961m#204.070#204.500
+4;«î¤¨;ç¥«®¢¥ª;NOUN;_;Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur;3;nsubj;_;@aas1961m-words#@aas1961m#204.500#204.930
+5;,;,;PUNCT;_;_;6;punct;_;@aas1961m-words#@aas1961m#204.930#205.360
+6;¯®¡ë¢ ¢è¨¥;¯®¡ë¢ âì;VERB;_;Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act;4;acl;_;@aas1961m-words#@aas1961m#205.360#205.790
+7;¢;¢;ADP;_;_;8;case;_;@aas1961m-words#@aas1961m#205.790#206.220
+8;§ ª«îç¥­¨ïå;§ ª«îç¥­¨¥;NOUN;_;Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur;6;obl;_;@aas1961m-words#@aas1961m#206.220#206.650
+9;,;,;PUNCT;_;_;13;punct;_;@aas1961m-words#@aas1961m#206.650#207.080
+10;/;/;PUNCT;_;_;13;punct;_;@aas1961m-words#@aas1961m#207.080#207.510
+11;¢;¢;ADP;_;_;13;case;_;@aas1961m-words#@aas1961m#207.510#207.940
+12;áã¬ áè¥¤è¨å;áã¬ áè¥¤è¨©;ADJ;_;Case=Loc|Degree=Pos|Number=Plur;13;amod;_;@aas1961m-words#@aas1961m#207.940#208.370
+13;¤®¬ å;¤®¬;NOUN;_;Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur;8;conj;_;@aas1961m-words#@aas1961m#208.370#208.800
+14;,;,;PUNCT;_;_;6;punct;_;@aas1961m-words#@aas1961m#208.800#209.230
+15;/;/;PUNCT;_;_;16;punct;_;@aas1961m-words#@aas1961m#209.230#209.660
+16;­¨é¨¥;­¨é¨©;VERB;_;Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act;6;conj;_;@aas1961m-words#@aas1961m#209.660#210.090
+17;,;,;PUNCT;_;_;16;punct;_;@aas1961m-words#@aas1961m#210.090#210.520
+18;/;/;PUNCT;_;_;19;punct;_;@aas1961m-words#@aas1961m#210.520#210.950
+19;«î¤¨;ç¥«®¢¥ª;NOUN;_;Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur;16;obl;_;@aas1961m-words#@aas1961m#210.950#211.380
+20;,;,;PUNCT;_;_;26;punct;_;@aas1961m-words#@aas1961m#211.380#211.810
+21;/;/;PUNCT;_;_;26;punct;_;@aas1961m-words#@aas1961m#211.810#212.240
+22;ª®â®àë¥;ª®â®àë©;PRON;_;Case=Nom;26;nsubj;_;@aas1961m-words#@aas1961m#212.240#212.670
+23;,;,;PUNCT;_;_;22;punct;_;@aas1961m-words#@aas1961m#212.670#213.100
+24;®¤­ ª®;®¤­ ª®;ADV;_;Degree=Pos;26;parataxis;_;@aas1961m-words#@aas1961m#213.100#213.530
+25;,;,;PUNCT;_;_;24;punct;_;@aas1961m-words#@aas1961m#213.530#213.960
+26;á®åà ­ï«¨;á®åà ­ïâì;VERB;_;Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act;19;conj;_;@aas1961m-words#@aas1961m#213.960#214.390
+27;¢«î¡«ñ­­®áâì;¢«î¡«ñ­­®áâì;NOUN;_;Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing;26;obj;_;@aas1961m-words#@aas1961m#214.390#214.820
+28;/;/;PUNCT;_;_;19;punct;_;@aas1961m-words#@aas1961m#214.820#215.250
+29;¨;¨;CCONJ;_;_;30;cc;_;@aas1961m-words#@aas1961m#215.250#215.680
+30;á®åà ­ï«¨;®åà ­ïâì;VERB;_;Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act;6;conj;_;@aas1961m-words#@aas1961m#215.680#216.110
+31;,;,;PUNCT;_;_;33;punct;_;@aas1961m-words#@aas1961m#216.110#216.540
+32;/;/;PUNCT;_;_;33;punct;_;@aas1961m-words#@aas1961m#216.540#216.970
+33;á®åà ­ï«¨;á®åà ­ïâì;VERB;_;Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act;30;conj;_;@aas1961m-words#@aas1961m#216.970#217.400
+34;/;/;PUNCT;_;_;35;punct;_;@aas1961m-words#@aas1961m#217.400#217.830
+35;¤¢¨¦¥­¨¥;¤¢¨¦¥­¨¥;NOUN;_;Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing;30;parataxis;_;@aas1961m-words#@aas1961m#217.830#218.260
+36;/;/;PUNCT;_;_;38;punct;_;@aas1961m-words#@aas1961m#218.260#218.690
+37;¢;¢;ADP;_;_;38;case;_;@aas1961m-words#@aas1961m#218.690#219.120
+38;á¥¡¥;á¥¡ï;PRON;_;Case=Loc;35;nmod;_;@aas1961m-words#@aas1961m#219.120#219.550
+39;.;.;PUNCT;_;_;3;punct;_;@aas1961m-words#@aas1961m#219.550#220.000
+;;;;;;;;;
+# sent_id = 10;;;;;;;;;
+# text = ˆ ®­¨ ¡ë«¨ , ®­¨ ¡ë«¨ á®£« á­ë á­¨¬ âìáï , / ¤  , / ä¨«ì¬ ¤®ªã¬¥­â «ì­ë©;;;;;;;;;
+1;ˆ;¨;CCONJ;_;_;7;cc;_;@aaa1961f-words#@aaa1961f#221.272#221.938
+2;®­¨;®­¨;PRON;_;Case=Nom|Number=Plur|Person=3;7;nsubj;_;@aaa1961f-words#@aaa1961f#221.938#222.604
+3;¡ë«¨;¡ëâì;AUX;_;Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act;7;cop;_;@aaa1961f-words#@aaa1961f#222.604#223.270
+4;,;,;PUNCT;_;_;7;punct;_;@aaa1961f-words#@aaa1961f#223.270#223.936
+5;®­¨;®­¨;PRON;_;Case=Nom|Number=Plur|Person=3;7;nsubj;_;@aaa1961f-words#@aaa1961f#223.936#224.602
+6;¡ë«¨;¡ëâì;AUX;_;Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act;7;cop;_;@aaa1961f-words#@aaa1961f#224.602#225.268
+7;á®£« á­ë;á®£« á­ë©;ADJ;_;Degree=Pos|Number=Plur|Variant=Short;0;root;_;@aaa1961f-words#@aaa1961f#225.268#225.934
+8;á­¨¬ âìáï;á­¨¬ âì;VERB;_;Aspect=Imp|VerbForm=Inf|Voice=Mid;7;xcomp;_;@aaa1961f-words#@aaa1961f#225.934#226.600
+9;,;,;PUNCT;_;_;14;punct;_;@aaa1961f-words#@aaa1961f#226.600#227.266
+10;/;/;PUNCT;_;_;14;punct;_;@aaa1961f-words#@aaa1961f#227.266#227.932
+11;¤ ;¤ ;PART;_;_;14;parataxis;_;@aaa1961f-words#@aaa1961f#227.932#228.598
+12;,;,;PUNCT;_;_;11;punct;_;@aaa1961f-words#@aaa1961f#228.598#229.264
+13;/;/;PUNCT;_;_;14;punct;_;@aaa1961f-words#@aaa1961f#229.264#229.930
+14;ä¨«ì¬;ä¨«ì¬;NOUN;_;Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing;8;parataxis;_;@aaa1961f-words#@aaa1961f#229.930#230.596
+15;¤®ªã¬¥­â «ì­ë©;¤®ªã¬¥­â «ì­ë©;ADJ;_;Case=Nom|Degree=Pos|Gender=Masc|Number=Sing;14;amod;_;@aaa1961f-words#@aaa1961f#230.596#231.272
+;;;;;;;;;
+# sent_id = 11;;;;;;;;;
+# text = \ ®­¨¬ ï / ¢®â / âã £«ã¡¨­ã / ¯ ¤¥­¨ï á¢®¥£® , / á®æ¨ «ì­®£® ¯ ¤¥­¨ï , ®­¨ ¦¥ §­ «¨ , / çâ® ï¢«ïîâáï ¦¥àâ¢ ¬¨ / -  £­æ ¬¨ , ®¡à¥çñ­­ë¬¨ ­  § ª« ­ì¥ .;;;;;;;;;
+1;\;\;PUNCT;_;_;18;punct;_;@aas1961m-words#@aas1961m#231.300#232.657
+2;®­¨¬ ï;¯®­¨¬ âì;VERB;_;Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act;18;advcl;_;@aas1961m-words#@aas1961m#232.657#234.014
+3;/;/;PUNCT;_;_;4;punct;_;@aas1961m-words#@aas1961m#234.014#235.371
+4;¢®â;¢®â;PART;_;_;2;advmod;_;@aas1961m-words#@aas1961m#235.371#236.728
+5;/;/;PUNCT;_;_;7;punct;_;@aas1961m-words#@aas1961m#236.728#238.085
+6;âã;â®â;DET;_;Case=Acc|Gender=Fem|Number=Sing;7;det;_;@aas1961m-words#@aas1961m#238.085#239.442
+7;£«ã¡¨­ã;£«ã¡¨­ ;NOUN;_;Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing;4;conj;_;@aas1961m-words#@aas1961m#239.442#240.799
+8;/;/;PUNCT;_;_;9;punct;_;@aas1961m-words#@aas1961m#240.799#242.156
+9;¯ ¤¥­¨ï;¯ ¤¥­¨¥;NOUN;_;Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing;7;nmod;_;@aas1961m-words#@aas1961m#242.156#243.513
+10;á¢®¥£®;á¢®©;DET;_;Case=Gen|Gender=Neut|Number=Sing;7;det;_;@aas1961m-words#@aas1961m#243.513#244.870
+11;,;,;PUNCT;_;_;10;punct;_;@aas1961m-words#@aas1961m#244.870#246.227
+12;/;/;PUNCT;_;_;13;punct;_;@aas1961m-words#@aas1961m#246.227#247.584
+13;á®æ¨ «ì­®£®;á®æ¨ «ì­ë©;ADJ;_;Case=Gen|Degree=Pos|Gender=Neut|Number=Sing;10;nmod;_;@aas1961m-words#@aas1961m#247.584#248.941
+14;¯ ¤¥­¨ï;¯ ¤¥­¨¥;NOUN;_;Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing;13;nmod;_;@aas1961m-words#@aas1961m#248.941#250.298
+15;,;,;PUNCT;_;_;2;punct;_;@aas1961m-words#@aas1961m#250.298#251.655
+16;®­¨;®­¨;PRON;_;Case=Nom|Number=Plur|Person=3;18;nsubj;_;@aas1961m-words#@aas1961m#251.655#253.012
+17;¦¥;¦¥;PART;_;_;16;advmod;_;@aas1961m-words#@aas1961m#253.012#254.369
+18;§­ «¨;§­ âì;VERB;_;Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act;0;root;_;@aas1961m-words#@aas1961m#254.369#255.726
+19;,;,;PUNCT;_;_;22;punct;_;@aas1961m-words#@aas1961m#255.726#257.083
+20;/;/;PUNCT;_;_;22;punct;_;@aas1961m-words#@aas1961m#257.083#258.440
+21;çâ®;çâ®;SCONJ;_;_;22;mark;_;@aas1961m-words#@aas1961m#258.440#259.797
+22;ï¢«ïîâáï;ï¢«ïâìáï;VERB;_;Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid;18;conj;_;@aas1961m-words#@aas1961m#259.797#261.154
+23;¦¥àâ¢ ¬¨;¦¥àâ¢ ;NOUN;_;Animacy=Anim|Case=Ins|Gender=Fem|Number=Plur;22;obl;_;@aas1961m-words#@aas1961m#261.154#262.511
+24;/;/;PUNCT;_;_;23;punct;_;@aas1961m-words#@aas1961m#262.511#263.868
+25;-;-;PUNCT;_;_;26;punct;_;@aas1961m-words#@aas1961m#263.868#265.225
+26; £­æ ¬¨; £­¥æ;NOUN;_;Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur;23;appos;_;@aas1961m-words#@aas1961m#265.225#266.582
+27;,;,;PUNCT;_;_;28;punct;_;@aas1961m-words#@aas1961m#266.582#267.939
+28;®¡à¥çñ­­ë¬¨;®¡à¥çñâì;VERB;_;Aspect=Perf|Case=Ins|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass;23;acl;_;@aas1961m-words#@aas1961m#267.939#269.296
+29;­ ;­ ;ADP;_;_;30;case;_;@aas1961m-words#@aas1961m#269.296#270.653
+30;§ ª« ­ì¥;§ ª« ­ì¥;NOUN;_;Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing;28;obl;_;@aas1961m-words#@aas1961m#270.653#272.010
+31;.;.;PUNCT;_;_;18;punct;_;@aas1961m-words#@aas1961m#272.010#273.367
+;;;;;;;;;
+# sent_id = 12;;;;;;;;;
+# text = / ˆå ¦¥àâ¢¥­­ë© ¯ãâì , / ®­ ®áâ ¢ «áï ¢ ­¨å .;;;;;;;;;
+1;/;/;PUNCT;_;_;4;punct;_;@aas1961m-words#@aas1961m#273.367#274.724
+2;ˆå;¨å;DET;_;_;4;det;_;@aas1961m-words#@aas1961m#274.724#276.081
+3;¦¥àâ¢¥­­ë©;¦¥àâ¢¥­­ë©;ADJ;_;Case=Nom|Degree=Pos|Gender=Masc|Number=Sing;4;amod;_;@aas1961m-words#@aas1961m#276.081#277.438
+4;¯ãâì;¯ãâì;NOUN;_;Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing;0;root;_;@aas1961m-words#@aas1961m#277.438#278.795
+5;,;,;PUNCT;_;_;8;punct;_;@aas1961m-words#@aas1961m#278.795#280.152
+6;/;/;PUNCT;_;_;8;punct;_;@aas1961m-words#@aas1961m#280.152#281.509
+7;®­;®­;PRON;_;Case=Nom|Gender=Masc|Number=Sing|Person=3;8;nsubj;_;@aas1961m-words#@aas1961m#281.509#282.866
+8;®áâ ¢ «áï;®áâ ¢ âìáï;VERB;_;Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid;4;parataxis;_;@aas1961m-words#@aas1961m#282.866#284.223
+9;¢;¢;ADP;_;_;10;case;_;@aas1961m-words#@aas1961m#284.223#285.580
+10;­¨å;®­¨;PRON;_;Case=Loc|Number=Plur|Person=3;8;obl;_;@aas1961m-words#@aas1961m#285.580#286.937
+11;.;.;PUNCT;_;_;4;punct;_;@aas1961m-words#@aas1961m#286.937#288.294
+;;;;;;;;;
+# sent_id = 13;;;;;;;;;
+# text = / Žáâ ¢ «áï ­¥à áªàëâë¬ , / ­¥ ¨á¯®¢¥¤ ­­ë¬ .;;;;;;;;;
+1;/;/;PUNCT;_;_;2;punct;_;@aas1961m-words#@aas1961m#288.294#289.651
+2;Žáâ ¢ «áï;®áâ ¢ âìáï;VERB;_;Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid;0;root;_;@aas1961m-words#@aas1961m#289.651#291.008
+3;­¥à áªàëâë¬;­¥à áªàëâë©;ADJ;_;Case=Ins|Degree=Pos|Gender=Masc|Number=Sing;2;obl;_;@aas1961m-words#@aas1961m#291.008#292.365
+4;,;,;PUNCT;_;_;7;punct;_;@aas1961m-words#@aas1961m#292.365#293.722
+5;/;/;PUNCT;_;_;7;punct;_;@aas1961m-words#@aas1961m#293.722#295.079
+6;­¥;­¥;PART;_;_;7;advmod;_;@aas1961m-words#@aas1961m#295.079#296.436
+7;¨á¯®¢¥¤ ­­ë¬;¨á¯®¢¥¤ âì;VERB;_;Aspect=Perf|Case=Ins|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass;2;conj;_;@aas1961m-words#@aas1961m#296.436#297.793
+8;.;.;PUNCT;_;_;2;punct;_;@aas1961m-words#@aas1961m#297.793#299.150
+;;;;;;;;;
+# sent_id = 14;;;;;;;;;
+# text = / ˆ¨¨ ¢ § ¤ çã ¢å®¤¨«® / ¯à®áâ® ¯®¢¥¤ âì «î¤ï¬ / ¨áâ®à¨î ¨å «î¡¢¨ , / ® â®¬ , ª ª ®­¨ ¢ëáâà ¤ «¨ á¢®î «î¡®¢ì ¨ ® â®¬ , / çâ® ®­¨ ®áâ îâáï ¢«î¡«ñ­­ë¬¨ .;;;;;;;;;
+1;/;/;PUNCT;_;_;5;punct;_;@aas1961m-words#@aas1961m#299.150#300.507
+2;ˆ¨¨;ˆ¨ï;NOUN;_;Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur;5;nsubj;_;@aas1961m-words#@aas1961m#300.507#301.864
+3;¢;¢;ADP;_;_;4;case;_;@aas1961m-words#@aas1961m#301.864#303.221
+4;§ ¤ çã;§ ¤ ç ;NOUN;_;Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing;5;obl;_;@aas1961m-words#@aas1961m#303.221#304.578
+5;¢å®¤¨«®;¢å®¤¨âì;VERB;_;Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act;0;root;_;@aas1961m-words#@aas1961m#304.578#305.935
+6;/;/;PUNCT;_;_;8;punct;_;@aas1961m-words#@aas1961m#305.935#307.292
+7;¯à®áâ®;¯à®áâ®;PART;_;_;8;advmod;_;@aas1961m-words#@aas1961m#307.292#308.649
+8;¯®¢¥¤ âì;¯®¢¥¤ âì;VERB;_;Aspect=Perf|VerbForm=Inf|Voice=Act;5;conj;_;@aas1961m-words#@aas1961m#308.649#310.006
+9;«î¤ï¬;ç¥«®¢¥ª;NOUN;_;Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur;8;iobj;_;@aas1961m-words#@aas1961m#310.006#311.363
+10;/;/;PUNCT;_;_;11;punct;_;@aas1961m-words#@aas1961m#311.363#312.720
+11;¨áâ®à¨î;¨áâ®à¨ï;NOUN;_;Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing;8;obj;_;@aas1961m-words#@aas1961m#312.720#314.077
+12;¨å;¨å;DET;_;_;13;det;_;@aas1961m-words#@aas1961m#314.077#315.434
+13;«î¡¢¨;«î¡®¢ì;NOUN;_;Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing;11;nmod;_;@aas1961m-words#@aas1961m#315.434#316.791
+14;,;,;PUNCT;_;_;17;punct;_;@aas1961m-words#@aas1961m#316.791#318.148
+15;/;/;PUNCT;_;_;17;punct;_;@aas1961m-words#@aas1961m#318.148#319.505
+16;®;®;ADP;_;_;17;case;_;@aas1961m-words#@aas1961m#319.505#320.862
+17;â®¬;â®;PRON;_;Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing;11;conj;_;@aas1961m-words#@aas1961m#320.862#322.219
+18;,;,;PUNCT;_;_;21;punct;_;@aas1961m-words#@aas1961m#322.219#323.576
+19;ª ª;ª ª;ADV;_;Degree=Pos;21;advmod;_;@aas1961m-words#@aas1961m#323.576#324.933
+20;®­¨;®­¨;PRON;_;Case=Nom|Number=Plur|Person=3;21;nsubj;_;@aas1961m-words#@aas1961m#324.933#326.290
+21;¢ëáâà ¤ «¨;¢ëáâà ¤ âì;VERB;_;Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act;17;acl;_;@aas1961m-words#@aas1961m#326.290#327.647
+22;á¢®î;á¢®©;DET;_;Case=Acc|Gender=Fem|Number=Sing;23;det;_;@aas1961m-words#@aas1961m#327.647#329.004
+23;«î¡®¢ì;«î¡®¢ì;NOUN;_;Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing;21;obj;_;@aas1961m-words#@aas1961m#329.004#330.361
+24;¨;¨;CCONJ;_;_;26;cc;_;@aas1961m-words#@aas1961m#330.361#331.718
+25;®;®;ADP;_;_;26;case;_;@aas1961m-words#@aas1961m#331.718#333.075
+26;â®¬;â®;PRON;_;Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing;21;obl;_;@aas1961m-words#@aas1961m#333.075#334.432
+27;,;,;PUNCT;_;_;31;punct;_;@aas1961m-words#@aas1961m#334.432#335.789
+28;/;/;PUNCT;_;_;31;punct;_;@aas1961m-words#@aas1961m#335.789#337.146
+29;çâ®;çâ®;SCONJ;_;_;31;mark;_;@aas1961m-words#@aas1961m#337.146#338.503
+30;®­¨;®­¨;PRON;_;Case=Nom|Number=Plur|Person=3;31;nsubj;_;@aas1961m-words#@aas1961m#338.503#339.860
+31;®áâ îâáï;®áâ âìáï;VERB;_;Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid;26;acl;_;@aas1961m-words#@aas1961m#339.860#341.217
+32;¢«î¡«ñ­­ë¬¨;¢«î¡«ñâì;ADJ;_;Case=Ins|Degree=Pos|Number=Plur;31;obl;_;@aas1961m-words#@aas1961m#341.217#342.574
+33;.;.;PUNCT;_;_;5;punct;_;@aas1961m-words#@aas1961m#342.574#344.000
